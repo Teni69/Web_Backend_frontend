@@ -1,0 +1,15 @@
+.UpdateDiv{
+    width: 100%;
+    padding: 2rem;
+    background-color:darkred;
+}
+
+.btn{
+    margin: 2%;
+    background-color: palegoldenrod;
+}
+
+.placeholder{
+    margin: 2%;
+    background-color:palegoldenrod;
+}

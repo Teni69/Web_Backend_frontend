@@ -1,0 +1,21 @@
+.SzamCard{
+    width: 80%;
+    height: auto;
+    background-color: darkgrey;
+    margin: 2% 10%;
+    box-shadow: gray .5rem .5rem .5rem .3rem;
+    border-radius: 3%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.SzamCard span{
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+.SzamCard p{
+    font-size: 1.2rem;
+    font-weight: 300;
+}
